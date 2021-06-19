@@ -9,7 +9,7 @@
 using namespace std;
 
 class Employees{
-public:
+private:
     string name;
     int idNumber;
     double hoursWorked;
